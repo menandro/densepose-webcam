@@ -1,5 +1,6 @@
 # Virtual Environment
 venv2/*
+DensePoseData/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
